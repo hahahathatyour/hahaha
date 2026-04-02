@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Absensi SMK Prima Unggul",
+  "description": "Aplikasi absensi siswa dan karyawan untuk SMK Prima Unggul dengan manajemen role Admin, Guru, dan Staf.",
+  "requestFramePermissions": []
+}
